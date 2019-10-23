@@ -1,0 +1,63 @@
+<h2 style="color: blue;">CatPhotoApp</h2> - pinta o H2
+-----------------
+<style>
+  h2 {
+    color: red; - css selector
+  }
+</style>
+-----------------
+<style>
+  .red-text {
+    color: red;       - classe para cor
+  }
+</style>
+
+<h2 class="red-text">CatPhotoApp</h2>
+------------------
+  p{
+    font-size: 16px;  - classe para tamanho
+  }
+-------------------
+h2 {
+  font-family: sans-serif;  - fonte da letra
+}
+-------------------
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css"> - copia fonte do google
+-------------------
+<style>
+  .larger-image {
+    width: 500px; - tamanho da imagem
+  }
+</style>
+--------------------
+<style>
+  .thin-red-border {
+    border-color: red;
+    border-width: 5px;         - bordas
+    border-style: solid;
+  }
+</style>
+---------------------
+<img class="class1 class2"> - pode acrescentar classes assim
+---------------------
+#cat-photo-element {
+  background-color: green;  - ID sempre referenciado com #
+} 
+----------------------
+padding: 10px 20px 10px 20px;
+
+These four values work like a clock: top, right, bottom, left,
+------------------------
+in and mm refer to inches and millimeters
+
+em is based on the size of an element's font.
+------------------------
+<style>
+  .h1 = classe
+   h1 = tag (todos h1vão ser do mesmo jeito) 
+   #h1 = ID
+</style>
+------------------------
+<h1 style="color: green;"> - inline style
+------------------------
+color: red !important; - !important sobrepõe
